@@ -1,0 +1,5 @@
+Input: input.png
+
+Recognized Text:
+Decodelabs-internship
+Task-4
